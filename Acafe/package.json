@@ -1,0 +1,31 @@
+{
+  "name": "acafe",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@a2seven/yoo-checkout": "^1.1.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "express-jwt": "^7.7.7",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.0.1",
+    "nodemailer": "^6.8.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

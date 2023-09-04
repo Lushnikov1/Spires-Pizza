@@ -1,0 +1,21 @@
+{
+    "ingridients": null,
+    "idCombo": 1,
+    "content": [
+        {
+            "id_productPrice": 8,
+            "productName": "Шашлык Говяжий",
+            "added": 0        
+        },
+         {
+            "id_productPrice": 7,
+            "productName": "Шашлык Баранина",
+            "added": 500
+         }
+    ],
+    "content":  {
+        "volume": "",
+        "id": 9,
+        "price": 1000
+    }
+}
